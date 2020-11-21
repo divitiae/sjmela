@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288101161065",
+    "firebase_url": "https://sjmela-c9517.firebaseio.com",
+    "project_id": "sjmela-c9517",
+    "storage_bucket": "sjmela-c9517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288101161065:android:2d91f56af85f514710aaf8",
+        "android_client_info": {
+          "package_name": "com.divitiae.sjmela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288101161065-evr5oer5472oo2l5ciqp75ohp3cjhb4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-Qzf24ABp9R72XYzv9IzwKUo47hsgx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288101161065-evr5oer5472oo2l5ciqp75ohp3cjhb4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
